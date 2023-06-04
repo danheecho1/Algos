@@ -33,6 +33,9 @@ Output: false
 s consists of parentheses only '()[]{}'.
 ```
 
+## Initial Pseudo Code
+![](20_valid_parentheses.png)
+
 ## My Solution
 ```js
 const isValid = (s) => {
